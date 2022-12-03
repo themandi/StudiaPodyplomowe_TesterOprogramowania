@@ -1,0 +1,1 @@
+# StudiaPodyplomowe_TesterOprogramowania
