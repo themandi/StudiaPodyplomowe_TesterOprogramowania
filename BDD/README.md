@@ -1,0 +1,2 @@
+# StudiaPodyplomowe_TesterOprogramowania
+BDD
